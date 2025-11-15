@@ -2,8 +2,10 @@
 ---
 **This project is no longer actively maintained.** It was a learning project started at *ProjectBase* to explore AI and programming collaboration. We have decided to archive it to focus on other major and ongoing projects. We appreciate your understanding and will not be accepting pull requests.
 ---
-![Web UI Image](./assets/Web_UI.png)
-![CLI UI Image](./assets/CLI_UI.png)
+<p align="center">
+    <img src="assets/Web_UI.png" alt="Web UI Image" width="45%" />
+    <img src="assets/CLI_UI.png" alt="CLI UI Image" width="45%" />
+</p>
 
 ---
 
